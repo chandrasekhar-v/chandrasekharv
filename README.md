@@ -32,28 +32,11 @@ Code Coding Coded.
   <a href="https://www.java.com" target="_blank"> 
     <code> <img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   </a>
-  &emsp;
-   <code><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </code>
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <code><img  alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"></code>
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <code> <img  alt="Javascript" src ='https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg'></code>
-   </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <code> <img  alt="Typescript" src ='https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg'></code>
-   </a>
    &emsp;
    <a href="https://www.w3schools.com/css/" target="_blank">
    <code><img alt="Spring" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   </a> 
-   &emsp;
-   <a href="https://www.w3schools.com/css/" target="_blank">
-   <code><img alt="Flask" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  </a> 
+ 
    
   
 </p>
