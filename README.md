@@ -109,8 +109,6 @@ Code Coding Coded.
     <code><a href="#"><img alt="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
   &emsp;
     <code><a href="#"><img alt="GCP" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
-   &emsp;
-    <code><a href="#"><img alt="GCP" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></code>
 &emsp;
     <code><a href="#"><img alt="Docker"src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 	&emsp;
