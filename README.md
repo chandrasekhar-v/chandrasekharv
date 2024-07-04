@@ -192,12 +192,5 @@ Code Coding Coded.
   <a href="https://www.linkedin.com/in/ganavijayaram">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/> 
  </a>
- &emsp;
- <a href="mailto:itsganavijayaram@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
- </a>
- &emsp;
- <a href="https://www.instagram.com/ganavi_jayaram/?hl=en">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
- </a>
+
 
