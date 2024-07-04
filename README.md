@@ -164,8 +164,6 @@ Code Coding Coded.
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganavijayaram&layout=compact&theme=algolia" alt="ganavijayaram" /></a> </p>
-
 
 
 ## Connect with me <img height="100" width="200" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
