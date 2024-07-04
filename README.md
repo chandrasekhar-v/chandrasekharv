@@ -155,7 +155,7 @@ Code Coding Coded.
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/ganavijayaram"><img alt="ganavijayaram's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ganavijayaram&custom_title=Ganavi+Jayaram's%20Contribution%20Graph&theme=react-dark" /></a>
+
   <br/>
   
   
